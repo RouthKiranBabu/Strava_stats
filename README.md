@@ -1,1 +1,1 @@
-***Strava Stats:*** https://routhkiranbabu.github.io/strava_stats.github.io/
+***Strava Stats:*** https://routhkiranbabu.github.io/Strava_stats/
