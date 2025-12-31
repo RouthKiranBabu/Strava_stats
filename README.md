@@ -1,3 +1,67 @@
+<h2 align="center">📅 Yearly Consistency Tracker</h2>
+
+<p align="center">
+Click any month to view <strong>achievements, challenges, and learnings</strong>
+</p>
+
+<table align="center">
+  <tr>
+    <th>Year</th>
+    <th>Monthly Progress</th>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>2025</strong></td>
+    <td align="center">
+
+<a href="./2025/January.md">
+  <img src="https://img.shields.io/badge/January-View%20Report-blue?style=for-the-badge">
+</a>
+<a href="./2025/February.md">
+  <img src="https://img.shields.io/badge/February-View%20Report-blue?style=for-the-badge">
+</a>
+<a href="./2025/March.md">
+  <img src="https://img.shields.io/badge/March-View%20Report-blue?style=for-the-badge">
+</a>
+<a href="./2025/April.md">
+  <img src="https://img.shields.io/badge/April-View%20Report-blue?style=for-the-badge">
+</a>
+
+<br>
+
+<a href="./2025/May.md">
+  <img src="https://img.shields.io/badge/May-View%20Report-blue?style=for-the-badge">
+</a>
+<a href="./2025/June.md">
+  <img src="https://img.shields.io/badge/June-View%20Report-blue?style=for-the-badge">
+</a>
+<a href="./2025/July.md">
+  <img src="https://img.shields.io/badge/July-View%20Report-blue?style=for-the-badge">
+</a>
+<a href="./2025/August.md">
+  <img src="https://img.shields.io/badge/August-View%20Report-blue?style=for-the-badge">
+</a>
+
+<br>
+
+<a href="./2025/September.md">
+  <img src="https://img.shields.io/badge/September-View%20Report-blue?style=for-the-badge">
+</a>
+<a href="./2025/October.md">
+  <img src="https://img.shields.io/badge/October-View%20Report-blue?style=for-the-badge">
+</a>
+<a href="./2025/November.md">
+  <img src="https://img.shields.io/badge/November-View%20Report-blue?style=for-the-badge">
+</a>
+<a href="./2025/December.md">
+  <img src="https://img.shields.io/badge/December-View%20Report-blue?style=for-the-badge">
+</a>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
 # 🏃‍♂️ Strava Daily Running Stats Visualization
 ***Strava Stats:*** https://routhkiranbabu.github.io/Strava_stats/
 ## 🟠 What is Strava?
