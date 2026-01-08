@@ -52,8 +52,9 @@ Structured view of <strong>running achievements, completed challenges, and perfo
   <img src="https://img.shields.io/badge/November-View%20Summary-fc4c02?style=for-the-badge&logo=strava&logoColor=white">
 </a>-->
 <a href="https://github.com/RouthKiranBabu/Strava_stats/tree/main/Yearly_Monthly%20-%20Report/Year_2025/Month_12">
-  <img src="https://img.shields.io/badge/December-View%20Summary-fc4c02?style=for-the-badge&logo=strava&logoColor=white">
+  <img src="https://img.shields.io/badge/December-Strava%20Challenges%20Completed-fc4c02?style=for-the-badge&logo=strava&logoColor=white">
 </a>
+
 
   </td>
   </tr>
